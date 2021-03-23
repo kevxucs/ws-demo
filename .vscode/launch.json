@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProducingWebServiceApplication<consuming-web-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.consumingwebservice.ProducingWebServiceApplication",
+            "projectName": "consuming-web-service",
+            "args": ""
+        }
+    ]
+}
